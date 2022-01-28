@@ -1,10 +1,12 @@
-import NavBar from './NavBar'
-import './App.css';
+import NavBar from "./NavBar";
+import "./App.css";
 
 function App() {
-  return <>
-    <NavBar />
-  </>
+  return (
+    <>
+      <NavBar />
+    </>
+  );
 }
 
 export default App;
